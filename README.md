@@ -8,7 +8,7 @@ All the source code is available on [Github](https://github.com/pablobvch/bootst
 
 ## Deployed URL
 
-This website was deployed for you via [GithubPages](https://pages.github.com/) on
+This website was deployed for you via [GithubPages](https://pages.github.com/) on https://pablobvch.github.io/bootstrapping-webpack/
 
 ## Prerequisites
 
